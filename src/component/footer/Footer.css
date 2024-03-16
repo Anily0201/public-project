@@ -1,0 +1,39 @@
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .footer-section {
+    max-width: 300px;
+  }
+  
+  .footer-section h3 {
+    color: #fff;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .footer-bottom {
+    text-align: center;
+    padding-top: 10px;
+    background-color: #222;
+  }
+  
+  .footer-bottom p {
+    margin: 0;
+    padding: 10px 0;
+    font-size: 0.8em;
+  }
+  

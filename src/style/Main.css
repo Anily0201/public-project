@@ -1,0 +1,46 @@
+.backgroundauth {
+    background-image: url('../image/GettyImages-641893830.webp');
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ant-btn {
+     background-color: #1890ff;
+    color: white;
+    border-radius: 10px;
+}
+
+.ant-btn:hover {
+    background-color: #36ff17;
+}
+
+.ant-form-item-control-input-content {
+    text-align: center;
+    margin-top: 1px;
+}
+
+.ant-form-item-control-input-content a {
+    color: #1890ff;
+}
+
+.ant-form-item-control-input-content a:hover {
+    color: #26eb14;
+}
+
+Form {
+    background-color: white;
+    border-radius: 15px;
+    opacity: 90%;
+}
+
+Form h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+.fp {
+    margin-left: 50px;
+}
+ 
+  
